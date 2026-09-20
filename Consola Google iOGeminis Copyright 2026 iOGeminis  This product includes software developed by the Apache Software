@@ -1,0 +1,131 @@
+Buscar (/) recursos, documentos, productos y más
+
+Firebase
+/
+
+Firebase
+Categorías
+Compila con IA
+Compila con datos
+Compila con seguridad
+Ejecuta código del servidor
+Prueba tu app
+Lanza tu app
+Supervisa tu app
+Involucra a tus usuarios
+Google Cloud y Firebase
+Firebase release notes
+Compila y opera apps de pila completa con Firebase y Google Cloud
+Firebase es la plataforma de Google para el desarrollo de apps web y para dispositivos móviles, que optimiza y simplifica cada etapa del flujo de trabajo de desarrollo, especialmente para apps y funciones potenciadas por IA.
+
+Puesto que Firebase y Google Cloud comparten la misma infraestructura subyacente, puedes escalar con facilidad a Google Cloud y combinar sus productos con los de Firebase para compilar y operar apps de pila completa de nivel empresarial.
+
+Compila con IA
+Compila apps y funciones de IA generativa a través de la experimentación con instrucciones, APIs y soluciones sencillas para acceder a los modelos de Gemini, además de herramientas y servicios de datos para crear y orquestar flujos de trabajo de IA complejos.
+
+Firebase AI Logic
+Usa los SDK de cliente de Firebase AI Logic para llamar a la API de Gemini directamente desde tu app web o para dispositivos móviles.
+
+Firestore
+Almacena datos como una base de conocimiento y usa capacidades de búsqueda de vectores integradas para casos de uso de IA, como RAG o recomendaciones de productos.
+
+SQL Connect
+Almacena datos relacionales como una base de conocimiento y usa la búsqueda de vectores integrada y la generación de embeddings para casos de uso de IA, como RAG o recomendaciones de productos.
+
+Compila con datos
+Aumenta la escala de tus capacidades de datos, aprovecha la infraestructura de nube completamente administrada y asegúrate de que los datos estén disponibles y protegidos para los usuarios finales de tu app, sin importar dónde se encuentren, incluso si no tienen conexión.
+
+Firestore
+Almacena datos en una base NoSQL en la nube con escalabilidad global y consúltalos. Sincroniza y protege datos en tiempo real en dispositivos en línea y sin conexión.
+
+SQL Connect
+Almacena y consulta datos con APIs de GraphQL sin servidores y seguras para compilar y escalar tu app con una base de datos de PostgreSQL completamente administrada y potenciada por Cloud SQL
+
+Cloud Storage for Firebase
+Almacena y entrega datos, como imágenes, video y audio, con funciones integradas de seguridad y conectividad a Internet para cargas y descargas desde apps web y para dispositivos móviles.
+
+Compila con seguridad
+Asegúrate de que los datos de tus usuarios finales estén protegidos, al igual que tus propios recursos e infraestructura, especialmente si el código de tu app y las solicitudes entrantes operan en un entorno sin servidor.
+
+Firebase App Check
+Asegúrate de que el tráfico entrante a tu app y a las APIs proceda de tu app. Bloquea solicitudes que no tengan credenciales válidas.
+
+Firebase Authentication
+Implementa rápidamente una solución de identidad multiplataforma, de extremo a extremo. Admite funciones de Identity Platform como la autenticación de varios factores y funciones de bloqueo.
+
+Verificación del número de teléfono con Firebase
+Usa datos móviles o Wi-Fi para recuperar los números de teléfono de los dispositivos que ejecutan tu app actualmente directo del operador. No es necesario enviar SMS ni escribir números.
+
+Ejecuta código del servidor
+Integra con opciones de computación sin servidores para ejecutar código de backend, alojar tus APIs y ejecutar lógica sensible o de procesamiento intensivo. Aprovecha las cargas de trabajo completamente administradas y el escalamiento.
+
+Firebase App Hosting
+Configuración, integración e implementación automáticas de los servicios de backend, como Cloud Run, para ejecutar apps web seguras renderizadas por el servidor que se escalen según la demanda.
+
+Cloud Functions for Firebase
+Ejecuta lógica de backend en respuesta a eventos en servicios en la nube, solicitudes HTTPS o trabajos programados. Se ejecuta en servidores de Cloud administrados, escalables y seguros.
+
+Prueba tu app
+Lanza atributos nuevos con confianza, con la seguridad de que probaste tu código y la experiencia del usuario de forma exhaustiva en varios dispositivos, con verificadores reales e incluso en comparación con métricas de negocios importantes.
+
+Firebase Test Lab
+Prueba tu app en dispositivos virtuales y físicos, y obtén informes de prueba con registros, capturas de pantalla y videos. Integra Firebase en tus flujos de trabajo de CI/CD.
+
+Firebase App Distribution
+Envía versiones previas al lanzamiento de tus apps para iOS y Android a tus verificadores de confianza y recopila comentarios.
+
+Firebase A/B Testing
+Ejecuta experimentos con un subconjunto de usuarios para probar ideas y su impacto en las métricas clave antes de lanzarlas a todos los usuarios.
+
+Lanza tu app
+Entrega tu app y funciones nuevas a tus usuarios finales con mayor facilidad y rapidez gracias a implementaciones automatizadas y de un solo clic, marcas de función para los lanzamientos y servicios de hosting perimetrales.
+
+Firebase App Hosting
+Desarrolla y también implementa tus apps web de pila completa en Next.js y Angular, con implementaciones continuas automáticas desde GitHub y el almacenamiento en caché en una CDN global.
+
+Firebase Remote Config
+Implementa la marca de función para lanzar nuevas funciones gradualmente y garantizar la estabilidad y el rendimiento, o para segmentar tu lanzamiento a públicos de usuarios específicos.
+
+Supervisa tu app
+Haz el seguimiento de métricas de estabilidad y rendimiento importantes para tu app en momentos críticos para tu negocio o tus usuarios finales, como los periodos de uso máximo o durante lanzamientos de funciones nuevas o de infraestructura.
+
+Firebase Crashlytics
+Haz un seguimiento de los problemas de estabilidad de tu app y priorízalos en tiempo real. Supervisa las métricas de uso y estabilidad de tu lanzamiento más reciente y obtén estadísticas de IA para la depuración.
+
+Firebase Performance Monitoring
+Comprende los problemas de rendimiento de la ejecución de código, el tiempo de carga y las solicitudes de red de tu app y haz un seguimiento en tiempo real.
+
+Involucra a tus usuarios
+Haz crecer y mantén tu negocio y tu base de usuarios con la personalización de la experiencia del usuario y mensajes contextuales, además de funciones que se ajustan al segmento demográfico o comportamiento de los usuarios.
+
+Firebase Remote Config
+Personaliza el comportamiento y la apariencia de tu app para diferentes segmentos de usuarios. Aplica automáticamente configuraciones personalizadas con IA para cada usuario.
+
+Firebase A/B Testing
+Ejecuta, analiza y escala experimentos de productos y marketing. Visualiza los informes del impacto en las métricas de la app o de la empresa, como la retención, los ingresos y la participación.
+
+Firebase Cloud Messaging
+Envía notificaciones push automatizadas, orientadas y personalizadas para diferentes segmentos de usuarios entre plataformas. Mide el éxito de las campañas de mensajería.
+
+Firebase In-App Messaging
+Sugiere a los usuarios activos que tomen medidas mostrando mensajes contextuales y orientados desde la app. Mide el éxito de las campañas de mensajería.
+
+Google Cloud y Firebase
+Los proyectos de Firebase tienen el respaldo de Google Cloud, lo que te permite escalar tu app a miles de millones de usuarios.
+
+Firebase utiliza la infraestructura de Google Cloud, lo que significa que comparten todo lo siguiente
+Infraestructura de proyecto compartida, incluidos la jerarquía y los identificadores del proyecto, controles de IAM y acceso, y facturación
+Condiciones del Servicio de Google Cloud Platform que rigen muchos productos, como Cloud Firestore, Verificación de aplicaciones de Firebase y Firebase Cloud Messaging.
+Firebase tiene un nivel de uso sin costo para casi todos los productos
+Explora la calculadora de precios 
+Firebase se integra con otros productos de Google para tus apps web o para dispositivos móviles
+Google AdMob 
+Google Analytics 
+Flutter 
+Google Play 
+Android Studio 
+Más información sobre Firebase
+Explora soluciones  para tus desafíos comunes en el desarrollo de apps
+Prueba algunas de las rutas de aprendizaje y Codelabs  de Firebase
+Revisa la app de demostración de Firebase 
+
